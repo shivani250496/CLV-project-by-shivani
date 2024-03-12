@@ -1,0 +1,34 @@
+Customer lifetime Value Prediction
+
+objective - predict the customer lifetime value(CLV) of the customer for an Auto Insurance company.
+
+
+Advantage - it helps to improve Customer acquisition and customer retension.
+
+
+Data -
+No of columns gives 24 features
+No of rows gives 9134 records
+
+
+Libraries used -
+Pandas for data analysis,data manipulation
+Numpy for mathematical operation
+Seaborn for data visualization
+Matplotlib for data visualization
+Scipy for scientific and Mathematical Problems
+
+
+Steps 
+1.import libraries (pandas,numpy,seaborn,matplotlib,scipy)
+2.summary statistics of numerical features
+3.checking Null values
+4.performing EDA (Exploratory Data Analysis)
+5.Data preprocessing
+6.Model Building-
+  linear regression
+  Ridge and Lasso Regression
+  Decision Tree
+  Random Forest
+  Hyperparameter tuning of Random Forest 
+  
